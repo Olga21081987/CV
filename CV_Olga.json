@@ -1,0 +1,38 @@
+{
+ "Position": "Junior QA Engineer",
+ "First name": "Olga",
+ "Last name": "Verigo",
+ "Age": 36,
+ "Сountry": "Republic of Belarus",
+ "Marital status": Try,
+ "Telephone Number": 80445720483,
+ "Email": "olgaverigo1987@gmail.com",
+ "Education": [
+    {
+	 "Educational institution": "Institute of Parliamentarism and Entrepreneurship",
+	 "Dates": "2006-2011",
+	 "Speciality": "Economist"
+	 },
+    {
+	 "Educational institution": "College of Industry and Construction Material",
+	 "Dates": "2003-2006",
+	 "Speciality": "Economist"
+	 }
+   ],
+ "Courses": "Software Testing Engineer. Basic level",
+ "Working experience": [
+     {	 
+      "Company 1": "Minsk City Olympic Reserve Athletics Center \"Athlet\"",
+      "Position": "Accountant",
+      "Dates": "2020-2023"
+	  },
+	 {	 
+      "Company 2": "Cafe \"Batiscaphe\"",
+      "Position": "Accountant",
+      "Dates": "2013-2020"
+	  }
+	],  
+ "Skills": ["Manual Testing", "API Testing", "Test Design", "Test Cases", "Agile", "Regressione Testing", "Performance Testing", "JIRA", "Postman API", "Chrome Developer Tools", "SQL", "Git", "HTTP", "JMeter"],
+ "Languages": "English, A1",
+ "Soft Skills": "Responsibility, Teamwork, Flexibility"
+ }
